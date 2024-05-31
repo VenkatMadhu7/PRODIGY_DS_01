@@ -3,7 +3,7 @@ creating a bar chart or histogram to visualize the distribution of a categorical
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Generate random ages for demonstration
+# Generate random ages for demonstrationn
 ages = np.random.randint(18, 80, size=100)
 
 # Create histogram
